@@ -1,11 +1,9 @@
 {
-.appVersion = "1184";
-DisplayStrings = (
-"A   DHESION\012NOONONNO "
-);
+.appVersion = "1141";
 classes = (
 {
-code = "A Agrave Aacute Acircumflex Atilde Adieresis Aring uni0200 uni0202 B C Ccedilla D E Egrave Eacute Ecircumflex Edieresis uni0204 uni0206 F G H I Igrave Iacute Icircumflex Idieresis uni0208 uni020A J K L M N Ntilde O Ograve Oacute Ocircumflex Otilde Odieresis uni020C uni020E P Q R uni0210 uni0212 S Scaron Scommaaccent T Tcommaaccent U Ugrave Uacute Ucircumflex Udieresis uni0214 uni0216 V W X Y Ydieresis Z Zcaron AE Oslash Thorn Lslash OE Omega Yacute Itilde Jcircumflex Ldot Racute Rcommaaccent Nacute Rcaron IJ Abreve Amacron Aogonek Bdotaccent Cacute Ccaron Cdotaccent Eth Dcaron Dcroat Ddotaccent Ecaron Edotaccent Emacron Eogonek Fdotaccent Gbreve Gcircumflex Gcommaaccent Gdotaccent Hbar Hcircumflex Idotaccent Imacron Iogonek Kcommaaccent Lacute Lcaron Lcommaaccent Mdotaccent Ncaron Ncommaaccent Eng Ohungarumlaut Omacron Pdotaccent Sacute Scedilla Scircumflex Sdotaccent Tbar Tcaron Tcedilla Tdotaccent Ubreve Uhungarumlaut Umacron Uogonek Uring Utilde Wacute Wcircumflex Wdieresis Wgrave Ycircumflex Ygrave Zacute Zdotaccent Delta";
+automatic = 1;
+code = "A Agrave Aacute Acircumflex Atilde Adieresis Aring B C Ccedilla D E Egrave Eacute Ecircumflex Edieresis F G H I Igrave Iacute Icircumflex Idieresis J K L M N Ntilde O Ograve Oacute Ocircumflex Otilde Odieresis P Q R S Scaron Scommaaccent T Tcommaaccent U Ugrave Uacute Ucircumflex Udieresis V W X Y Ydieresis Z Zcaron AE Oslash Thorn Lslash OE Omega Yacute Itilde Jcircumflex Ldot Racute Rcommaaccent Nacute Rcaron IJ Abreve Amacron Aogonek AEacute Bdotaccent Cacute Ccaron Ccircumflex Cdotaccent Eth Dcaron Dcroat Ddotaccent Dz Dzcaron Ebreve Ecaron Edotaccent Emacron Eogonek Fdotaccent Gacute Gbreve Gcircumflex Gcommaaccent Gdotaccent Hbar Hcircumflex Ibreve Idotaccent Imacron Iogonek Kcommaaccent Lacute Lcaron Lcommaaccent Lj Mdotaccent Ncaron Ncommaaccent Eng Nj Obreve Ohungarumlaut Omacron Oslashacute Pdotaccent Sacute Scedilla Scircumflex Sdotaccent Schwa Tbar Tcaron Tcedilla Tdotaccent Ubreve Uhungarumlaut Umacron Uogonek Uring Utilde Wacute Wcircumflex Wdieresis Wgrave Ycircumflex Ygrave Zacute Zdotaccent Delta AEmacron Gcaron Sigma";
 name = Uppercase;
 }
 );
@@ -609,7 +607,7 @@ Tag = ital;
 );
 }
 );
-date = "2018-12-04 21:03:37 +0000";
+date = "2018-12-12 22:37:48 +0000";
 designer = "Vernon Adams";
 designerURL = newtypography.co.uk;
 disablesNiceNames = 1;
@@ -629,7 +627,7 @@ name = locl;
 },
 {
 automatic = 1;
-code = "sub one by onesuperior;\012sub two by twosuperior;\012sub three by threesuperior;\012";
+code = "sub one by onesuperior;\012sub two by twosuperior;\012sub three by threesuperior;\012sub four by foursuperior;\012";
 name = sups;
 },
 {
@@ -686,8 +684,9 @@ xHeight = 1500;
 );
 glyphs = (
 {
+color = 0;
 glyphname = A;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:29 +0000";
 layers = (
 {
 anchors = (
@@ -770,12 +769,12 @@ unicode = 0041;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Agrave;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -808,12 +807,12 @@ unicode = 00C0;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Aacute;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -846,12 +845,12 @@ unicode = 00C1;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Acircumflex;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -884,12 +883,12 @@ unicode = 00C2;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Atilde;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -922,12 +921,12 @@ unicode = 00C3;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Adieresis;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -960,12 +959,12 @@ unicode = 00C4;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Aring;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -998,86 +997,12 @@ unicode = 00C5;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
-glyphname = uni0200;
-lastChange = "2013-12-30 23:25:22 +0000";
-layers = (
-{
-components = (
-{
-name = A;
-},
-{
-name = dblgravecmb;
-transform = "{1, 0, 0, 1, 2, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 994;
-},
-{
-components = (
-{
-name = A;
-},
-{
-name = dblgravecmb;
-transform = "{1, 0, 0, 1, 101, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 994;
-}
-);
-unicode = 0200;
-userData = {
-com.typemytype.robofont.layerData = {
-};
-};
-},
-{
-glyphname = uni0202;
-lastChange = "2013-12-30 23:25:02 +0000";
-layers = (
-{
-components = (
-{
-name = A;
-},
-{
-name = breveinvertedcomb;
-transform = "{1, 0, 0, 1, -2, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 994;
-},
-{
-components = (
-{
-name = A;
-},
-{
-name = breveinvertedcomb;
-transform = "{1, 0, 0, 1, 71, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 994;
-}
-);
-unicode = 0202;
-userData = {
-com.typemytype.robofont.layerData = {
-};
-};
-},
-{
+color = 0;
 glyphname = B;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 anchors = (
@@ -1214,12 +1139,12 @@ unicode = 0042;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = C;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 anchors = (
@@ -1332,12 +1257,12 @@ unicode = 0043;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Ccedilla;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -1369,12 +1294,12 @@ unicode = 00C7;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = D;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 anchors = (
@@ -1473,12 +1398,12 @@ unicode = 0044;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = E;
-lastChange = "2013-12-31 00:06:58 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 anchors = (
@@ -1551,12 +1476,12 @@ unicode = 0045;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Egrave;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -1589,12 +1514,12 @@ unicode = 00C8;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Eacute;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:34 +0000";
 layers = (
 {
 components = (
@@ -1627,12 +1552,12 @@ unicode = 00C9;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Ecircumflex;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -1665,12 +1590,12 @@ unicode = 00CA;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Edieresis;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -1703,86 +1628,12 @@ unicode = 00CB;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
-glyphname = uni0204;
-lastChange = "2013-12-30 23:25:22 +0000";
-layers = (
-{
-components = (
-{
-name = E;
-},
-{
-name = dblgravecmb;
-transform = "{1, 0, 0, 1, -50, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 843;
-},
-{
-components = (
-{
-name = E;
-},
-{
-name = dblgravecmb;
-transform = "{1, 0, 0, 1, 48, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 843;
-}
-);
-unicode = 0204;
-userData = {
-com.typemytype.robofont.layerData = {
-};
-};
-},
-{
-glyphname = uni0206;
-lastChange = "2013-12-30 23:25:02 +0000";
-layers = (
-{
-components = (
-{
-name = E;
-},
-{
-name = breveinvertedcomb;
-transform = "{1, 0, 0, 1, -54, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 843;
-},
-{
-components = (
-{
-name = E;
-},
-{
-name = breveinvertedcomb;
-transform = "{1, 0, 0, 1, 18, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 843;
-}
-);
-unicode = 0206;
-userData = {
-com.typemytype.robofont.layerData = {
-};
-};
-},
-{
+color = 0;
 glyphname = F;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 anchors = (
@@ -1843,12 +1694,12 @@ unicode = 0046;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = G;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 anchors = (
@@ -1967,12 +1818,12 @@ unicode = 0047;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = H;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 anchors = (
@@ -2037,12 +1888,12 @@ unicode = 0048;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = I;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 anchors = (
@@ -2099,12 +1950,12 @@ unicode = 0049;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Igrave;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -2137,12 +1988,12 @@ unicode = 00CC;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Iacute;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -2175,12 +2026,12 @@ unicode = 00CD;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Icircumflex;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -2213,12 +2064,12 @@ unicode = 00CE;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Idieresis;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -2251,86 +2102,12 @@ unicode = 00CF;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
-glyphname = uni0208;
-lastChange = "2013-12-30 23:25:22 +0000";
-layers = (
-{
-components = (
-{
-name = I;
-},
-{
-name = dblgravecmb;
-transform = "{1, 0, 0, 1, -249, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 464;
-},
-{
-components = (
-{
-name = I;
-},
-{
-name = dblgravecmb;
-transform = "{1, 0, 0, 1, -151, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 464;
-}
-);
-unicode = 0208;
-userData = {
-com.typemytype.robofont.layerData = {
-};
-};
-},
-{
-glyphname = uni020A;
-lastChange = "2013-12-30 23:25:02 +0000";
-layers = (
-{
-components = (
-{
-name = I;
-},
-{
-name = breveinvertedcomb;
-transform = "{1, 0, 0, 1, -253, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 464;
-},
-{
-components = (
-{
-name = I;
-},
-{
-name = breveinvertedcomb;
-transform = "{1, 0, 0, 1, -181, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 464;
-}
-);
-unicode = 020A;
-userData = {
-com.typemytype.robofont.layerData = {
-};
-};
-},
-{
+color = 0;
 glyphname = J;
-lastChange = "2013-12-30 23:47:28 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 anchors = (
@@ -2407,12 +2184,12 @@ unicode = 004A;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = K;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 anchors = (
@@ -2483,12 +2260,12 @@ unicode = 004B;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = L;
-lastChange = "2013-12-30 23:30:51 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 anchors = (
@@ -2565,12 +2342,12 @@ unicode = 004C;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = M;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 anchors = (
@@ -2637,12 +2414,12 @@ unicode = 004D;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = N;
-lastChange = "2018-12-04 21:04:46 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 anchors = (
@@ -2777,12 +2554,12 @@ unicode = 004E;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Ntilde;
-lastChange = "2018-12-04 21:38:29 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -2815,12 +2592,12 @@ unicode = 00D1;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = O;
-lastChange = "2018-12-04 21:04:19 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 anchors = (
@@ -3047,12 +2824,12 @@ unicode = 004F;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Ograve;
-lastChange = "2018-12-04 21:38:29 +0000";
+lastChange = "2018-12-12 22:27:34 +0000";
 layers = (
 {
 components = (
@@ -3085,12 +2862,12 @@ unicode = 00D2;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Oacute;
-lastChange = "2018-12-04 21:38:29 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -3123,12 +2900,12 @@ unicode = 00D3;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Ocircumflex;
-lastChange = "2018-12-04 21:38:29 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -3161,12 +2938,12 @@ unicode = 00D4;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Otilde;
-lastChange = "2018-12-04 21:38:29 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -3199,12 +2976,12 @@ unicode = 00D5;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Odieresis;
-lastChange = "2018-12-04 21:38:29 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -3237,86 +3014,12 @@ unicode = 00D6;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
-glyphname = uni020C;
-lastChange = "2018-12-04 21:38:29 +0000";
-layers = (
-{
-components = (
-{
-name = O;
-},
-{
-name = dblgravecmb;
-transform = "{1, 0, 0, 1, 18, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1022;
-},
-{
-components = (
-{
-name = O;
-},
-{
-name = dblgravecmb;
-transform = "{1, 0, 0, 1, 104, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1021;
-}
-);
-unicode = 020C;
-userData = {
-com.typemytype.robofont.layerData = {
-};
-};
-},
-{
-glyphname = uni020E;
-lastChange = "2018-12-04 21:38:29 +0000";
-layers = (
-{
-components = (
-{
-name = O;
-},
-{
-name = breveinvertedcomb;
-transform = "{1, 0, 0, 1, 14, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1022;
-},
-{
-components = (
-{
-name = O;
-},
-{
-name = breveinvertedcomb;
-transform = "{1, 0, 0, 1, 74, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1021;
-}
-);
-unicode = 020E;
-userData = {
-com.typemytype.robofont.layerData = {
-};
-};
-},
-{
+color = 0;
 glyphname = P;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 anchors = (
@@ -3407,12 +3110,12 @@ unicode = 0050;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Q;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:34 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -3519,12 +3222,12 @@ unicode = 0051;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = R;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 anchors = (
@@ -3639,86 +3342,12 @@ unicode = 0052;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
-glyphname = uni0210;
-lastChange = "2013-12-30 23:25:22 +0000";
-layers = (
-{
-components = (
-{
-name = R;
-},
-{
-name = dblgravecmb;
-transform = "{1, 0, 0, 1, -15, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 976;
-},
-{
-components = (
-{
-name = R;
-},
-{
-name = dblgravecmb;
-transform = "{1, 0, 0, 1, 83, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 976;
-}
-);
-unicode = 0210;
-userData = {
-com.typemytype.robofont.layerData = {
-};
-};
-},
-{
-glyphname = uni0212;
-lastChange = "2013-12-30 23:25:02 +0000";
-layers = (
-{
-components = (
-{
-name = R;
-},
-{
-name = breveinvertedcomb;
-transform = "{1, 0, 0, 1, -19, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 976;
-},
-{
-components = (
-{
-name = R;
-},
-{
-name = breveinvertedcomb;
-transform = "{1, 0, 0, 1, 53, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 976;
-}
-);
-unicode = 0212;
-userData = {
-com.typemytype.robofont.layerData = {
-};
-};
-},
-{
+color = 0;
 glyphname = S;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 anchors = (
@@ -3853,12 +3482,12 @@ unicode = 0053;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Scaron;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -3891,12 +3520,12 @@ unicode = 0160;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Scommaaccent;
-lastChange = "2013-12-31 00:18:03 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -3929,12 +3558,12 @@ unicode = 0218;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = T;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 anchors = (
@@ -4007,12 +3636,12 @@ unicode = 0054;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Tcommaaccent;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -4045,12 +3674,12 @@ unicode = 021A;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = U;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 anchors = (
@@ -4135,12 +3764,12 @@ unicode = 0055;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Ugrave;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -4173,12 +3802,12 @@ unicode = 00D9;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Uacute;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -4211,12 +3840,12 @@ unicode = 00DA;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Ucircumflex;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -4249,12 +3878,12 @@ unicode = 00DB;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Udieresis;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -4287,86 +3916,12 @@ unicode = 00DC;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
-glyphname = uni0214;
-lastChange = "2013-12-30 23:25:22 +0000";
-layers = (
-{
-components = (
-{
-name = U;
-},
-{
-name = dblgravecmb;
-transform = "{1, 0, 0, 1, -3, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 970;
-},
-{
-components = (
-{
-name = U;
-},
-{
-name = dblgravecmb;
-transform = "{1, 0, 0, 1, 95, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 970;
-}
-);
-unicode = 0214;
-userData = {
-com.typemytype.robofont.layerData = {
-};
-};
-},
-{
-glyphname = uni0216;
-lastChange = "2013-12-30 23:25:02 +0000";
-layers = (
-{
-components = (
-{
-name = U;
-},
-{
-name = breveinvertedcomb;
-transform = "{1, 0, 0, 1, -7, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 970;
-},
-{
-components = (
-{
-name = U;
-},
-{
-name = breveinvertedcomb;
-transform = "{1, 0, 0, 1, 65, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 970;
-}
-);
-unicode = 0216;
-userData = {
-com.typemytype.robofont.layerData = {
-};
-};
-},
-{
+color = 0;
 glyphname = V;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -4409,12 +3964,12 @@ unicode = 0056;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = W;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 anchors = (
@@ -4481,12 +4036,12 @@ unicode = 0057;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = X;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -4539,12 +4094,12 @@ unicode = 0058;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Y;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 anchors = (
@@ -4603,12 +4158,12 @@ unicode = 0059;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Ydieresis;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -4641,12 +4196,12 @@ unicode = 0178;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Z;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 anchors = (
@@ -4707,12 +4262,12 @@ unicode = 005A;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Zcaron;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -4745,12 +4300,12 @@ unicode = 017D;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = AE;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:34 +0000";
 layers = (
 {
 anchors = (
@@ -4841,12 +4396,12 @@ unicode = 00C6;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Oslash;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -4913,12 +4468,12 @@ unicode = 00D8;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Thorn;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -5001,12 +4556,12 @@ unicode = 00DE;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Lslash;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -5053,12 +4608,12 @@ unicode = 0141;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = OE;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -5153,7 +4708,6 @@ unicode = 0152;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
@@ -5262,8 +4816,9 @@ com.typemytype.robofont.layerData = {
 };
 },
 {
+color = 0;
 glyphname = a;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 anchors = (
@@ -5410,12 +4965,12 @@ unicode = 0061;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = agrave;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 components = (
@@ -5448,12 +5003,12 @@ unicode = 00E0;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = aacute;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:54 +0000";
 layers = (
 {
 components = (
@@ -5486,12 +5041,12 @@ unicode = 00E1;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = acircumflex;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:54 +0000";
 layers = (
 {
 components = (
@@ -5524,12 +5079,12 @@ unicode = 00E2;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = atilde;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 components = (
@@ -5562,12 +5117,12 @@ unicode = 00E3;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = adieresis;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 components = (
@@ -5600,12 +5155,12 @@ unicode = 00E4;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = aring;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 components = (
@@ -5638,86 +5193,12 @@ unicode = 00E5;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
-glyphname = uni0201;
-lastChange = "2013-12-30 23:25:22 +0000";
-layers = (
-{
-components = (
-{
-name = a;
-},
-{
-name = dblgravecmb;
-transform = "{1, 0, 0, 1, 9, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 990;
-},
-{
-components = (
-{
-name = a;
-},
-{
-name = dblgravecmb;
-transform = "{1, 0, 0, 1, 104, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 990;
-}
-);
-unicode = 0201;
-userData = {
-com.typemytype.robofont.layerData = {
-};
-};
-},
-{
-glyphname = uni0203;
-lastChange = "2013-12-30 23:25:02 +0000";
-layers = (
-{
-components = (
-{
-name = a;
-},
-{
-name = breveinvertedcomb;
-transform = "{1, 0, 0, 1, 5, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 990;
-},
-{
-components = (
-{
-name = a;
-},
-{
-name = breveinvertedcomb;
-transform = "{1, 0, 0, 1, 74, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 990;
-}
-);
-unicode = 0203;
-userData = {
-com.typemytype.robofont.layerData = {
-};
-};
-},
-{
+color = 0;
 glyphname = b;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:54 +0000";
 layers = (
 {
 anchors = (
@@ -5832,12 +5313,12 @@ unicode = 0062;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = c;
-lastChange = "2013-12-30 23:45:58 +0000";
+lastChange = "2018-12-12 22:29:54 +0000";
 layers = (
 {
 anchors = (
@@ -5950,12 +5431,12 @@ unicode = 0063;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = ccedilla;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:54 +0000";
 layers = (
 {
 components = (
@@ -5988,12 +5469,12 @@ unicode = 00E7;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = d;
-lastChange = "2013-12-31 00:24:23 +0000";
+lastChange = "2018-12-12 22:29:54 +0000";
 layers = (
 {
 anchors = (
@@ -6124,12 +5605,12 @@ unicode = 0064;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = e;
-lastChange = "2013-12-30 23:46:52 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 anchors = (
@@ -6266,12 +5747,12 @@ unicode = 0065;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = egrave;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 components = (
@@ -6304,12 +5785,12 @@ unicode = 00E8;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = eacute;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 components = (
@@ -6342,12 +5823,12 @@ unicode = 00E9;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = ecircumflex;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 components = (
@@ -6380,12 +5861,12 @@ unicode = 00EA;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = edieresis;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 components = (
@@ -6418,86 +5899,12 @@ unicode = 00EB;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
-glyphname = uni0205;
-lastChange = "2013-12-30 23:25:22 +0000";
-layers = (
-{
-components = (
-{
-name = e;
-},
-{
-name = dblgravecmb;
-transform = "{1, 0, 0, 1, 15, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1000;
-},
-{
-components = (
-{
-name = e;
-},
-{
-name = dblgravecmb;
-transform = "{1, 0, 0, 1, 110, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1000;
-}
-);
-unicode = 0205;
-userData = {
-com.typemytype.robofont.layerData = {
-};
-};
-},
-{
-glyphname = uni0207;
-lastChange = "2013-12-30 23:25:02 +0000";
-layers = (
-{
-components = (
-{
-name = breve;
-transform = "{1, 0, 0, -1, 0, 3565}";
-},
-{
-name = e;
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1000;
-},
-{
-components = (
-{
-name = e;
-},
-{
-name = breveinvertedcomb;
-transform = "{1, 0, 0, 1, 80, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1000;
-}
-);
-unicode = 0207;
-userData = {
-com.typemytype.robofont.layerData = {
-};
-};
-},
-{
+color = 0;
 glyphname = f;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:54 +0000";
 layers = (
 {
 anchors = (
@@ -6590,12 +5997,12 @@ unicode = 0066;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = g;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:54 +0000";
 layers = (
 {
 anchors = (
@@ -6734,12 +6141,12 @@ unicode = 0067;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = h;
-lastChange = "2013-12-30 23:51:25 +0000";
+lastChange = "2018-12-12 22:29:54 +0000";
 layers = (
 {
 anchors = (
@@ -6828,12 +6235,12 @@ unicode = 0068;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = i;
-lastChange = "2013-12-30 23:46:37 +0000";
+lastChange = "2018-12-12 22:29:54 +0000";
 layers = (
 {
 anchors = (
@@ -6900,12 +6307,12 @@ unicode = 0069;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = igrave;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 components = (
@@ -6938,12 +6345,12 @@ unicode = 00EC;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = iacute;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 components = (
@@ -6976,12 +6383,12 @@ unicode = 00ED;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = icircumflex;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 components = (
@@ -7014,12 +6421,12 @@ unicode = 00EE;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = idieresis;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 components = (
@@ -7052,86 +6459,12 @@ unicode = 00EF;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
-glyphname = uni0209;
-lastChange = "2013-12-30 23:25:22 +0000";
-layers = (
-{
-components = (
-{
-name = dotlessi;
-},
-{
-name = dblgravecmb;
-transform = "{1, 0, 0, 1, -247, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 482;
-},
-{
-components = (
-{
-name = dotlessi;
-},
-{
-name = dblgravecmb;
-transform = "{1, 0, 0, 1, -149, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 482;
-}
-);
-unicode = 0209;
-userData = {
-com.typemytype.robofont.layerData = {
-};
-};
-},
-{
-glyphname = uni020B;
-lastChange = "2013-12-30 23:25:02 +0000";
-layers = (
-{
-components = (
-{
-name = breve;
-transform = "{1, 0, 0, -1, -239.5, 3565}";
-},
-{
-name = dotlessi;
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 526;
-},
-{
-components = (
-{
-name = breveinvertedcomb;
-transform = "{1, 0, 0, 1, -186, 0}";
-},
-{
-name = dotlessi;
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 498;
-}
-);
-unicode = 020B;
-userData = {
-com.typemytype.robofont.layerData = {
-};
-};
-},
-{
+color = 0;
 glyphname = j;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -7210,12 +6543,12 @@ unicode = 006A;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = k;
-lastChange = "2013-12-30 23:50:55 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 anchors = (
@@ -7286,12 +6619,12 @@ unicode = 006B;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = l;
-lastChange = "2013-12-30 23:31:53 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 anchors = (
@@ -7364,12 +6697,12 @@ unicode = 006C;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = m;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 anchors = (
@@ -7480,12 +6813,12 @@ unicode = 006D;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = n;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 anchors = (
@@ -7574,12 +6907,12 @@ unicode = 006E;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = ntilde;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 components = (
@@ -7612,12 +6945,12 @@ unicode = 00F1;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = o;
-lastChange = "2013-12-31 00:07:18 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 anchors = (
@@ -7732,12 +7065,12 @@ unicode = 006F;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = ograve;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:54 +0000";
 layers = (
 {
 components = (
@@ -7770,12 +7103,12 @@ unicode = 00F2;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = oacute;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 components = (
@@ -7808,12 +7141,12 @@ unicode = 00F3;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = ocircumflex;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:54 +0000";
 layers = (
 {
 components = (
@@ -7846,12 +7179,12 @@ unicode = 00F4;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = otilde;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:54 +0000";
 layers = (
 {
 components = (
@@ -7884,12 +7217,12 @@ unicode = 00F5;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = odieresis;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 components = (
@@ -7922,86 +7255,12 @@ unicode = 00F6;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
-glyphname = uni020D;
-lastChange = "2013-12-30 23:25:22 +0000";
-layers = (
-{
-components = (
-{
-name = o;
-},
-{
-name = dblgravecmb;
-transform = "{1, 0, 0, 1, 15, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1017;
-},
-{
-components = (
-{
-name = o;
-},
-{
-name = dblgravecmb;
-transform = "{1, 0, 0, 1, 110, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1017;
-}
-);
-unicode = 020D;
-userData = {
-com.typemytype.robofont.layerData = {
-};
-};
-},
-{
-glyphname = uni020F;
-lastChange = "2013-12-30 23:25:02 +0000";
-layers = (
-{
-components = (
-{
-name = breve;
-transform = "{1, 0, 0, -1, 7, 3565}";
-},
-{
-name = o;
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1018;
-},
-{
-components = (
-{
-name = o;
-},
-{
-name = breveinvertedcomb;
-transform = "{1, 0, 0, 1, 80, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1017;
-}
-);
-unicode = 020F;
-userData = {
-com.typemytype.robofont.layerData = {
-};
-};
-},
-{
+color = 0;
 glyphname = p;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 anchors = (
@@ -8116,12 +7375,12 @@ unicode = 0070;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = q;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:54 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -8224,12 +7483,12 @@ unicode = 0071;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = r;
-lastChange = "2013-12-30 23:48:29 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 anchors = (
@@ -8298,86 +7557,12 @@ unicode = 0072;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
-glyphname = uni0211;
-lastChange = "2013-12-30 23:25:22 +0000";
-layers = (
-{
-components = (
-{
-name = r;
-},
-{
-name = dblgravecmb;
-transform = "{1, 0, 0, 1, -11, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 704;
-},
-{
-components = (
-{
-name = r;
-},
-{
-name = dblgravecmb;
-transform = "{1, 0, 0, 1, 14, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 704;
-}
-);
-unicode = 0211;
-userData = {
-com.typemytype.robofont.layerData = {
-};
-};
-},
-{
-glyphname = uni0213;
-lastChange = "2013-12-30 23:25:02 +0000";
-layers = (
-{
-components = (
-{
-name = breve;
-transform = "{1, 0, 0, -1, -110.302, 3565}";
-},
-{
-name = r;
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 701;
-},
-{
-components = (
-{
-name = r;
-},
-{
-name = breveinvertedcomb;
-transform = "{1, 0, 0, 1, -16, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 704;
-}
-);
-unicode = 0213;
-userData = {
-com.typemytype.robofont.layerData = {
-};
-};
-},
-{
+color = 0;
 glyphname = s;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 anchors = (
@@ -8514,12 +7699,12 @@ unicode = 0073;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = scaron;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 components = (
@@ -8552,12 +7737,12 @@ unicode = 0161;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = scommaaccent;
-lastChange = "2013-12-31 00:05:26 +0000";
+lastChange = "2018-12-12 22:29:54 +0000";
 layers = (
 {
 components = (
@@ -8590,12 +7775,12 @@ unicode = 0219;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = t;
-lastChange = "2013-12-30 23:32:34 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 anchors = (
@@ -8708,12 +7893,12 @@ unicode = 0074;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = tcommaaccent;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 components = (
@@ -8746,12 +7931,12 @@ unicode = 021B;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = u;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 anchors = (
@@ -8842,12 +8027,12 @@ unicode = 0075;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = ugrave;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 components = (
@@ -8880,12 +8065,12 @@ unicode = 00F9;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = uacute;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 components = (
@@ -8918,12 +8103,12 @@ unicode = 00FA;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = ucircumflex;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 components = (
@@ -8956,12 +8141,12 @@ unicode = 00FB;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = udieresis;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 components = (
@@ -8994,86 +8179,12 @@ unicode = 00FC;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
-glyphname = uni0215;
-lastChange = "2013-12-30 23:25:22 +0000";
-layers = (
-{
-components = (
-{
-name = u;
-},
-{
-name = dblgravecmb;
-transform = "{1, 0, 0, 1, 18, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1022;
-},
-{
-components = (
-{
-name = u;
-},
-{
-name = dblgravecmb;
-transform = "{1, 0, 0, 1, 116, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1022;
-}
-);
-unicode = 0215;
-userData = {
-com.typemytype.robofont.layerData = {
-};
-};
-},
-{
-glyphname = uni0217;
-lastChange = "2013-12-30 23:25:02 +0000";
-layers = (
-{
-components = (
-{
-name = breve;
-transform = "{1, 0, 0, -1, 18.5, 3565}";
-},
-{
-name = u;
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1046;
-},
-{
-components = (
-{
-name = u;
-},
-{
-name = breveinvertedcomb;
-transform = "{1, 0, 0, 1, 86, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1022;
-}
-);
-unicode = 0217;
-userData = {
-com.typemytype.robofont.layerData = {
-};
-};
-},
-{
+color = 0;
 glyphname = v;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -9120,12 +8231,12 @@ unicode = 0076;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = w;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 anchors = (
@@ -9192,12 +8303,12 @@ unicode = 0077;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = x;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -9260,12 +8371,12 @@ unicode = 0078;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = y;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 anchors = (
@@ -9340,12 +8451,12 @@ unicode = 0079;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = ydieresis;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:54 +0000";
 layers = (
 {
 components = (
@@ -9378,12 +8489,12 @@ unicode = 00FF;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = z;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 anchors = (
@@ -9444,12 +8555,12 @@ unicode = 007A;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = zcaron;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 components = (
@@ -9482,12 +8593,12 @@ unicode = 017E;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = ordfeminine;
-lastChange = "2013-12-31 00:20:10 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -9610,12 +8721,12 @@ unicode = 00AA;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = ordmasculine;
-lastChange = "2013-12-31 00:20:13 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -9706,12 +8817,12 @@ unicode = 00BA;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = germandbls;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:54 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -9818,12 +8929,12 @@ unicode = 00DF;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = ae;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:54 +0000";
 layers = (
 {
 anchors = (
@@ -10036,12 +9147,12 @@ unicode = 00E6;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = oslash;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 components = (
@@ -10106,12 +9217,12 @@ unicode = 00F8;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = thorn;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -10214,12 +9325,12 @@ unicode = 00FE;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = dotlessi;
-lastChange = "2013-12-30 23:47:43 +0000";
+lastChange = "2018-12-12 22:29:54 +0000";
 layers = (
 {
 anchors = (
@@ -10276,12 +9387,12 @@ unicode = 0131;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = lslash;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -10336,12 +9447,12 @@ unicode = 0142;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = oe;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -10530,12 +9641,12 @@ unicode = 0153;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = florin;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -10638,12 +9749,12 @@ unicode = 0192;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = pi;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -10696,12 +9807,12 @@ unicode = 03C0;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = circumflex;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 anchors = (
@@ -10756,12 +9867,12 @@ unicode = 02C6;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = caron;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 anchors = (
@@ -10816,12 +9927,12 @@ unicode = 02C7;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = zero;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:54 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -10916,12 +10027,12 @@ unicode = 0030;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = one;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -10972,12 +10083,12 @@ unicode = 0031;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = two;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -11068,12 +10179,12 @@ unicode = 0032;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = three;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -11196,12 +10307,12 @@ unicode = 0033;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = four;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -11268,12 +10379,12 @@ unicode = 0034;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = five;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -11370,12 +10481,12 @@ unicode = 0035;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = six;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -11500,12 +10611,12 @@ unicode = 0036;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = seven;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:53 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -11564,12 +10675,12 @@ unicode = 0037;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = eight;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:54 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -11738,12 +10849,12 @@ unicode = 0038;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = nine;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:29:54 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -11868,12 +10979,12 @@ unicode = 0039;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = onequarter;
-lastChange = "2013-12-31 00:15:10 +0000";
+lastChange = "2018-12-12 22:30:18 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -12000,12 +11111,12 @@ unicode = 00BC;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = onehalf;
-lastChange = "2013-12-31 00:15:16 +0000";
+lastChange = "2018-12-12 22:30:18 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -12150,12 +11261,12 @@ unicode = 00BD;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = threequarters;
-lastChange = "2013-12-31 00:15:24 +0000";
+lastChange = "2018-12-12 22:30:18 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -12340,12 +11451,12 @@ unicode = 00BE;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = underscore;
-lastChange = "2013-12-31 00:17:30 +0000";
+lastChange = "2018-12-12 22:30:18 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -12382,12 +11493,12 @@ unicode = 005F;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = hyphen;
-lastChange = "2013-12-31 00:20:37 +0000";
+lastChange = "2018-12-12 22:29:47 +0000";
 layers = (
 {
 anchors = (
@@ -12436,12 +11547,12 @@ unicode = 002D;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = endash;
-lastChange = "2013-12-31 00:20:42 +0000";
+lastChange = "2018-12-12 22:30:18 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -12478,12 +11589,12 @@ unicode = 2013;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = emdash;
-lastChange = "2013-12-31 00:20:53 +0000";
+lastChange = "2018-12-12 22:30:18 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -12520,12 +11631,12 @@ unicode = 2014;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = parenleft;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:18 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -12586,12 +11697,12 @@ unicode = 0028;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = bracketleft;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:18 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -12636,12 +11747,12 @@ unicode = 005B;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = braceleft;
-lastChange = "2013-12-31 00:13:43 +0000";
+lastChange = "2018-12-12 22:30:18 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -12732,12 +11843,12 @@ unicode = 007B;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = quotesinglbase;
-lastChange = "2013-12-31 00:20:57 +0000";
+lastChange = "2018-12-12 22:30:18 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -12780,12 +11891,12 @@ unicode = 201A;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = quotedblbase;
-lastChange = "2013-12-31 00:21:03 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -12852,12 +11963,12 @@ unicode = 201E;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = parenright;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -12918,12 +12029,12 @@ unicode = 0029;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = bracketright;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -12968,12 +12079,12 @@ unicode = 005D;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = braceright;
-lastChange = "2013-12-31 00:14:15 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -13064,12 +12175,12 @@ unicode = 007D;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = quoteleft;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -13112,12 +12223,12 @@ unicode = 2018;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = quotedblleft;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -13184,12 +12295,12 @@ unicode = 201C;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = guilsinglleft;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -13232,12 +12343,12 @@ unicode = 2039;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = quoteright;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -13280,12 +12391,12 @@ unicode = 2019;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = quotedblright;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -13352,12 +12463,12 @@ unicode = 201D;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = guilsinglright;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -13400,12 +12511,12 @@ unicode = 203A;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = exclam;
-lastChange = "2013-12-31 00:21:13 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -13460,12 +12571,12 @@ unicode = 0021;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = quotedbl;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -13520,12 +12631,12 @@ unicode = 0022;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = numbersign;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -13628,12 +12739,12 @@ unicode = 0023;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = percent;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -13822,12 +12933,12 @@ unicode = 0025;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = ampersand;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -13990,12 +13101,12 @@ unicode = 0026;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = quotesingle;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -14032,12 +13143,12 @@ unicode = 0027;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = asterisk;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -14102,12 +13213,12 @@ unicode = 002A;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = comma;
-lastChange = "2013-12-31 00:21:22 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 anchors = (
@@ -14162,12 +13273,12 @@ unicode = 002C;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = period;
-lastChange = "2013-12-31 00:21:25 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -14204,12 +13315,12 @@ unicode = 002E;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = slash;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -14246,12 +13357,12 @@ unicode = 002F;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = colon;
-lastChange = "2013-12-31 00:21:29 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -14306,12 +13417,12 @@ unicode = 003A;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = semicolon;
-lastChange = "2013-12-31 00:21:31 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -14372,12 +13483,12 @@ unicode = 003B;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = question;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -14472,12 +13583,12 @@ unicode = 003F;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = at;
-lastChange = "2013-12-31 00:21:35 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -14640,12 +13751,12 @@ unicode = 0040;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = backslash;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -14682,12 +13793,12 @@ unicode = 005C;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = exclamdown;
-lastChange = "2013-12-31 00:09:20 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -14742,12 +13853,12 @@ unicode = 00A1;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = periodcentered;
-lastChange = "2013-12-31 00:21:47 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 anchors = (
@@ -14796,12 +13907,12 @@ unicode = 00B7;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = questiondown;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 components = (
@@ -14828,12 +13939,12 @@ unicode = 00BF;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = dagger;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -14886,12 +13997,12 @@ unicode = 2020;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = daggerdbl;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -14960,12 +14071,12 @@ unicode = 2021;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = bullet;
-lastChange = "2013-12-31 00:21:53 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -15018,12 +14129,12 @@ unicode = 2022;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = ellipsis;
-lastChange = "2013-12-31 00:21:57 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -15096,12 +14207,12 @@ unicode = 2026;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = perthousand;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -15366,12 +14477,12 @@ unicode = 2030;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = plus;
-lastChange = "2013-12-31 00:22:01 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -15424,12 +14535,12 @@ unicode = 002B;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = less;
-lastChange = "2013-12-31 00:22:03 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -15472,12 +14583,12 @@ unicode = 003C;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = equal;
-lastChange = "2013-12-31 00:22:06 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -15532,12 +14643,12 @@ unicode = 003D;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = greater;
-lastChange = "2013-12-31 00:22:08 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -15580,12 +14691,12 @@ unicode = 003E;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = bar;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -15622,12 +14733,12 @@ unicode = 007C;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = asciitilde;
-lastChange = "2013-12-31 00:22:12 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -15696,12 +14807,12 @@ unicode = 007E;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = logicalnot;
-lastChange = "2013-12-31 00:22:14 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -15742,12 +14853,12 @@ unicode = 00AC;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = plusminus;
-lastChange = "2013-12-31 00:22:17 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -15818,12 +14929,12 @@ unicode = 00B1;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = multiply;
-lastChange = "2013-12-31 00:22:19 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -15876,12 +14987,12 @@ unicode = 00D7;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = divide;
-lastChange = "2013-12-31 00:22:21 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -15954,12 +15065,12 @@ unicode = 00F7;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = fraction;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -15996,12 +15107,12 @@ unicode = 2044;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = partialdiff;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -16136,7 +15247,6 @@ unicode = 2202;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
@@ -16201,8 +15311,9 @@ public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = product;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -16247,12 +15358,12 @@ unicode = 220F;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = summation;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -16305,12 +15416,12 @@ unicode = 2211;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = minus;
-lastChange = "2013-12-31 00:22:28 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -16347,12 +15458,12 @@ unicode = 2212;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = radical;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -16401,12 +15512,12 @@ unicode = 221A;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = infinity;
-lastChange = "2013-12-31 00:22:30 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -16551,12 +15662,12 @@ unicode = 221E;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = integral;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -16641,12 +15752,12 @@ unicode = 222B;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = approxequal;
-lastChange = "2013-12-31 00:22:35 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -16765,12 +15876,12 @@ unicode = 2248;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = notequal;
-lastChange = "2013-12-31 00:22:38 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -16825,12 +15936,12 @@ unicode = 2260;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = lessequal;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -16891,12 +16002,12 @@ unicode = 2264;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = greaterequal;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -16957,12 +16068,12 @@ unicode = 2265;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = dollar;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -17089,12 +16200,12 @@ unicode = 0024;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = cent;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -17199,12 +16310,12 @@ unicode = 00A2;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = sterling;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -17315,12 +16426,12 @@ unicode = 00A3;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = currency;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -17455,12 +16566,12 @@ unicode = 00A4;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = yen;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 components = (
@@ -17525,12 +16636,12 @@ unicode = 00A5;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = asciicircum;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -17573,12 +16684,12 @@ unicode = 005E;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = grave;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 anchors = (
@@ -17627,12 +16738,12 @@ unicode = 0060;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = dieresis;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 anchors = (
@@ -17699,12 +16810,12 @@ unicode = 00A8;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = macron;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 anchors = (
@@ -17761,12 +16872,12 @@ unicode = 00AF;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = acute;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 anchors = (
@@ -17815,12 +16926,12 @@ unicode = 00B4;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = cedilla;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 anchors = (
@@ -17901,12 +17012,12 @@ unicode = 00B8;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = breve;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 anchors = (
@@ -17987,12 +17098,12 @@ unicode = 02D8;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = dotaccent;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 anchors = (
@@ -18041,12 +17152,12 @@ unicode = 02D9;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = ring;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 anchors = (
@@ -18145,12 +17256,12 @@ unicode = 02DA;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = ogonek;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 anchors = (
@@ -18231,12 +17342,12 @@ unicode = 02DB;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = tilde;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 anchors = (
@@ -18317,12 +17428,12 @@ unicode = 02DC;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = hungarumlaut;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 anchors = (
@@ -18389,12 +17500,12 @@ unicode = 02DD;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = brokenbar;
-lastChange = "2013-12-31 00:22:55 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -18449,12 +17560,12 @@ unicode = 00A6;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = section;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -18617,12 +17728,12 @@ unicode = 00A7;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = copyright;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -18783,12 +17894,12 @@ unicode = 00A9;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = registered;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -18949,12 +18060,12 @@ unicode = 00AE;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = degree;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -19041,12 +18152,12 @@ unicode = 00B0;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = paragraph;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -19103,12 +18214,12 @@ unicode = 00B6;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = trademark;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -19189,12 +18300,12 @@ unicode = 2122;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = lozenge;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -19257,12 +18368,12 @@ unicode = 25CA;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = space;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -19277,12 +18388,12 @@ unicode = 0020;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = uni00A0;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -19297,7 +18408,6 @@ unicode = 00A0;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
@@ -19393,8 +18503,9 @@ com.typemytype.robofont.layerData = {
 };
 },
 {
+color = 0;
 glyphname = Yacute;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -19427,12 +18538,12 @@ unicode = 00DD;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = kcommaaccent;
-lastChange = "2013-12-31 00:05:35 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 components = (
@@ -19465,7 +18576,6 @@ unicode = 0137;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
@@ -19506,8 +18616,9 @@ com.typemytype.robofont.layerData = {
 };
 },
 {
+color = 0;
 glyphname = rcaron;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 components = (
@@ -19540,7 +18651,6 @@ unicode = 0159;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
@@ -19618,8 +18728,9 @@ com.typemytype.robofont.layerData = {
 };
 },
 {
+color = 0;
 glyphname = rcommaaccent;
-lastChange = "2013-12-30 23:48:39 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 components = (
@@ -19652,7 +18763,6 @@ unicode = 0157;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
@@ -19693,8 +18803,9 @@ com.typemytype.robofont.layerData = {
 };
 },
 {
+color = 0;
 glyphname = Racute;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -19727,12 +18838,12 @@ unicode = 0154;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = nacute;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:19 +0000";
 layers = (
 {
 components = (
@@ -19765,12 +18876,12 @@ unicode = 0144;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Rcommaaccent;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -19803,12 +18914,12 @@ unicode = 0156;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Nacute;
-lastChange = "2018-12-04 21:38:29 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -19841,12 +18952,12 @@ unicode = 0143;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Rcaron;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -19879,7 +18990,6 @@ unicode = 0158;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
@@ -19994,8 +19104,9 @@ com.typemytype.robofont.layerData = {
 };
 },
 {
+color = 0;
 glyphname = yacute;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:20 +0000";
 layers = (
 {
 components = (
@@ -20028,7 +19139,6 @@ unicode = 00FD;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
@@ -20069,8 +19179,9 @@ com.typemytype.robofont.layerData = {
 };
 },
 {
+color = 0;
 glyphname = Abreve;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -20100,13 +19211,11 @@ width = 994;
 }
 );
 unicode = 0102;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = Amacron;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:34 +0000";
 layers = (
 {
 components = (
@@ -20136,13 +19245,11 @@ width = 994;
 }
 );
 unicode = 0100;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = Aogonek;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -20172,9 +19279,6 @@ width = 994;
 }
 );
 unicode = 0104;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
 glyphname = AEacute;
@@ -20243,8 +19347,9 @@ width = 980;
 unicode = 1E02;
 },
 {
+color = 0;
 glyphname = Cacute;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -20274,13 +19379,11 @@ width = 971;
 }
 );
 unicode = 0106;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = Ccaron;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -20310,9 +19413,6 @@ width = 971;
 }
 );
 unicode = 010C;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
 glyphname = Ccircumflex;
@@ -20381,8 +19481,9 @@ width = 971;
 unicode = 010A;
 },
 {
+color = 0;
 glyphname = Eth;
-lastChange = "2013-12-31 00:05:46 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -20412,13 +19513,11 @@ width = 1010;
 }
 );
 unicode = 00D0;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = Dcaron;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -20448,13 +19547,11 @@ width = 1010;
 }
 );
 unicode = 010E;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = Dcroat;
-lastChange = "2013-12-31 00:05:48 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -20476,9 +19573,6 @@ width = 1010;
 }
 );
 unicode = 0110;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
 glyphname = Ddotaccent;
@@ -20621,8 +19715,9 @@ width = 843;
 unicode = 0114;
 },
 {
+color = 0;
 glyphname = Ecaron;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -20652,13 +19747,11 @@ width = 843;
 }
 );
 unicode = 011A;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = Edotaccent;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -20688,13 +19781,11 @@ width = 843;
 }
 );
 unicode = 0116;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = Emacron;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -20724,13 +19815,11 @@ width = 843;
 }
 );
 unicode = 0112;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = Eogonek;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -20760,9 +19849,6 @@ width = 843;
 }
 );
 unicode = 0118;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
 glyphname = Fdotaccent;
@@ -20831,8 +19917,9 @@ width = 993;
 unicode = 01F4;
 },
 {
+color = 0;
 glyphname = Gbreve;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -20862,9 +19949,6 @@ width = 993;
 }
 );
 unicode = 011E;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
 glyphname = Gcircumflex;
@@ -20900,8 +19984,9 @@ width = 993;
 unicode = 011C;
 },
 {
+color = 0;
 glyphname = Gcommaaccent;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -20931,9 +20016,6 @@ width = 993;
 }
 );
 unicode = 0122;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
 glyphname = Gdotaccent;
@@ -21082,8 +20164,9 @@ width = 464;
 unicode = 012C;
 },
 {
+color = 0;
 glyphname = Idotaccent;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -21113,13 +20196,11 @@ width = 464;
 }
 );
 unicode = 0130;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = Imacron;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -21149,13 +20230,11 @@ width = 464;
 }
 );
 unicode = 012A;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = Iogonek;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:34 +0000";
 layers = (
 {
 components = (
@@ -21185,13 +20264,11 @@ width = 464;
 }
 );
 unicode = 012E;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = Kcommaaccent;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -21221,13 +20298,11 @@ width = 967;
 }
 );
 unicode = 0136;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = Lacute;
-lastChange = "2013-12-31 00:23:28 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -21257,13 +20332,11 @@ width = 814;
 }
 );
 unicode = 0139;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = Lcaron;
-lastChange = "2013-12-30 23:30:44 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -21293,13 +20366,11 @@ width = 814;
 }
 );
 unicode = 013D;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = Lcommaaccent;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -21329,9 +20400,6 @@ width = 814;
 }
 );
 unicode = 013B;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
 glyphname = Lj;
@@ -21400,8 +20468,9 @@ width = 1528;
 unicode = 1E40;
 },
 {
+color = 0;
 glyphname = Ncaron;
-lastChange = "2018-12-04 21:38:29 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -21431,13 +20500,11 @@ width = 1051;
 }
 );
 unicode = 0147;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = Ncommaaccent;
-lastChange = "2018-12-04 21:38:29 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -21467,9 +20534,6 @@ width = 1051;
 }
 );
 unicode = 0145;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
 glyphname = Eng;
@@ -21609,8 +20673,9 @@ width = 1021;
 unicode = 014E;
 },
 {
+color = 0;
 glyphname = Ohungarumlaut;
-lastChange = "2018-12-04 21:38:29 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -21640,13 +20705,11 @@ width = 1021;
 }
 );
 unicode = 0150;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = Omacron;
-lastChange = "2018-12-04 21:38:29 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -21676,9 +20739,6 @@ width = 1021;
 }
 );
 unicode = 014C;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
 glyphname = Oslashacute;
@@ -21747,8 +20807,9 @@ width = 967;
 unicode = 1E56;
 },
 {
+color = 0;
 glyphname = Sacute;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -21778,13 +20839,11 @@ width = 945;
 }
 );
 unicode = 015A;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = Scedilla;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -21814,9 +20873,6 @@ width = 945;
 }
 );
 unicode = 015E;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
 glyphname = Scircumflex;
@@ -22025,8 +21081,9 @@ width = 811;
 unicode = 0166;
 },
 {
+color = 0;
 glyphname = Tcaron;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -22056,9 +21113,6 @@ width = 811;
 }
 );
 unicode = 0164;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
 glyphname = Tcedilla;
@@ -22160,8 +21214,9 @@ width = 970;
 unicode = 016C;
 },
 {
+color = 0;
 glyphname = Uhungarumlaut;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -22191,13 +21246,11 @@ width = 970;
 }
 );
 unicode = 0170;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = Umacron;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -22227,13 +21280,11 @@ width = 970;
 }
 );
 unicode = 016A;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = Uogonek;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -22263,13 +21314,11 @@ width = 970;
 }
 );
 unicode = 0172;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = Uring;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -22299,9 +21348,6 @@ width = 970;
 }
 );
 unicode = 016E;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
 glyphname = Utilde;
@@ -22535,8 +21581,9 @@ width = 914;
 unicode = 1EF2;
 },
 {
+color = 0;
 glyphname = Zacute;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -22566,13 +21613,11 @@ width = 840;
 }
 );
 unicode = 0179;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = Zdotaccent;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:27:35 +0000";
 layers = (
 {
 components = (
@@ -22602,13 +21647,11 @@ width = 840;
 }
 );
 unicode = 017B;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = abreve;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:20 +0000";
 layers = (
 {
 components = (
@@ -22638,13 +21681,11 @@ width = 990;
 }
 );
 unicode = 0103;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = amacron;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:21 +0000";
 layers = (
 {
 components = (
@@ -22674,13 +21715,11 @@ width = 990;
 }
 );
 unicode = 0101;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = aogonek;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:21 +0000";
 layers = (
 {
 components = (
@@ -22710,9 +21749,6 @@ width = 990;
 }
 );
 unicode = 0105;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
 glyphname = aeacute;
@@ -22781,8 +21817,9 @@ width = 1027;
 unicode = 1E03;
 },
 {
+color = 0;
 glyphname = cacute;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:21 +0000";
 layers = (
 {
 components = (
@@ -22812,13 +21849,11 @@ width = 1006;
 }
 );
 unicode = 0107;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = ccaron;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:21 +0000";
 layers = (
 {
 components = (
@@ -22848,9 +21883,6 @@ width = 1006;
 }
 );
 unicode = 010D;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
 glyphname = ccircumflex;
@@ -22919,8 +21951,9 @@ width = 1006;
 unicode = 010B;
 },
 {
+color = 0;
 glyphname = eth;
-lastChange = "2013-12-31 00:23:55 +0000";
+lastChange = "2018-12-12 22:30:20 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -23048,13 +22081,11 @@ width = 1031;
 }
 );
 unicode = 00F0;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = dcaron;
-lastChange = "2013-12-30 23:31:29 +0000";
+lastChange = "2018-12-12 22:30:21 +0000";
 layers = (
 {
 components = (
@@ -23084,13 +22115,11 @@ width = 1020;
 }
 );
 unicode = 010F;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = dcroat;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:21 +0000";
 layers = (
 {
 components = (
@@ -23120,9 +22149,6 @@ width = 1020;
 }
 );
 unicode = 0111;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
 glyphname = ddotaccent;
@@ -23265,8 +22291,9 @@ width = 1000;
 unicode = 0115;
 },
 {
+color = 0;
 glyphname = ecaron;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:21 +0000";
 layers = (
 {
 components = (
@@ -23296,13 +22323,11 @@ width = 1000;
 }
 );
 unicode = 011B;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = edotaccent;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:21 +0000";
 layers = (
 {
 components = (
@@ -23332,13 +22357,11 @@ width = 1000;
 }
 );
 unicode = 0117;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = emacron;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:21 +0000";
 layers = (
 {
 components = (
@@ -23368,13 +22391,11 @@ width = 1000;
 }
 );
 unicode = 0113;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = eogonek;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:21 +0000";
 layers = (
 {
 components = (
@@ -23404,9 +22425,6 @@ width = 1000;
 }
 );
 unicode = 0119;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
 glyphname = fdotaccent;
@@ -23475,8 +22493,9 @@ width = 1032;
 unicode = 01F5;
 },
 {
+color = 0;
 glyphname = gbreve;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:21 +0000";
 layers = (
 {
 components = (
@@ -23506,9 +22525,6 @@ width = 1032;
 }
 );
 unicode = 011F;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
 glyphname = gcircumflex;
@@ -23544,8 +22560,9 @@ width = 1032;
 unicode = 011D;
 },
 {
+color = 0;
 glyphname = gcommaaccent;
-lastChange = "2013-12-30 23:32:06 +0000";
+lastChange = "2018-12-12 22:30:25 +0000";
 layers = (
 {
 components = (
@@ -23575,9 +22592,6 @@ width = 1032;
 }
 );
 unicode = 0123;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
 glyphname = gdotaccent;
@@ -23744,8 +22758,9 @@ width = 482;
 );
 },
 {
+color = 0;
 glyphname = imacron;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:25 +0000";
 layers = (
 {
 components = (
@@ -23775,13 +22790,11 @@ width = 482;
 }
 );
 unicode = 012B;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = iogonek;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:25 +0000";
 layers = (
 {
 components = (
@@ -23819,9 +22832,6 @@ width = 482;
 }
 );
 unicode = 012F;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
 glyphname = dotlessj;
@@ -23897,8 +22907,9 @@ width = 538;
 unicode = 0237;
 },
 {
+color = 0;
 glyphname = lacute;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:25 +0000";
 layers = (
 {
 components = (
@@ -23928,13 +22939,11 @@ width = 508;
 }
 );
 unicode = 013A;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = lcaron;
-lastChange = "2013-12-30 23:31:56 +0000";
+lastChange = "2018-12-12 22:30:25 +0000";
 layers = (
 {
 components = (
@@ -23964,13 +22973,11 @@ width = 508;
 }
 );
 unicode = 013E;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = lcommaaccent;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:25 +0000";
 layers = (
 {
 components = (
@@ -24000,9 +23007,6 @@ width = 508;
 }
 );
 unicode = 013C;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
 glyphname = lj;
@@ -24106,8 +23110,9 @@ width = 1095;
 unicode = 0149;
 },
 {
+color = 0;
 glyphname = ncaron;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:25 +0000";
 layers = (
 {
 components = (
@@ -24137,13 +23142,11 @@ width = 1021;
 }
 );
 unicode = 0148;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = ncommaaccent;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:25 +0000";
 layers = (
 {
 components = (
@@ -24173,9 +23176,6 @@ width = 1021;
 }
 );
 unicode = 0146;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
 glyphname = eng;
@@ -24315,8 +23315,9 @@ width = 1017;
 unicode = 014F;
 },
 {
+color = 0;
 glyphname = ohungarumlaut;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:25 +0000";
 layers = (
 {
 components = (
@@ -24346,13 +23347,11 @@ width = 1017;
 }
 );
 unicode = 0151;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = omacron;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:25 +0000";
 layers = (
 {
 components = (
@@ -24382,9 +23381,6 @@ width = 1017;
 }
 );
 unicode = 014D;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
 glyphname = oslashacute;
@@ -24453,8 +23449,9 @@ width = 1023;
 unicode = 1E57;
 },
 {
+color = 0;
 glyphname = racute;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:25 +0000";
 layers = (
 {
 components = (
@@ -24484,13 +23481,11 @@ width = 704;
 }
 );
 unicode = 0155;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = sacute;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:25 +0000";
 layers = (
 {
 components = (
@@ -24520,13 +23515,11 @@ width = 972;
 }
 );
 unicode = 015B;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = scedilla;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:25 +0000";
 layers = (
 {
 components = (
@@ -24556,9 +23549,6 @@ width = 972;
 }
 );
 unicode = 015F;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
 glyphname = scircumflex;
@@ -24773,8 +23763,9 @@ width = 625;
 unicode = 0167;
 },
 {
+color = 0;
 glyphname = tcaron;
-lastChange = "2013-12-30 23:32:38 +0000";
+lastChange = "2018-12-12 22:30:25 +0000";
 layers = (
 {
 components = (
@@ -24804,9 +23795,6 @@ width = 625;
 }
 );
 unicode = 0165;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
 glyphname = tcedilla;
@@ -24908,8 +23896,9 @@ width = 1022;
 unicode = 016D;
 },
 {
+color = 0;
 glyphname = uhungarumlaut;
-lastChange = "2013-12-30 23:32:19 +0000";
+lastChange = "2018-12-12 22:30:25 +0000";
 layers = (
 {
 components = (
@@ -24939,13 +23928,11 @@ width = 1022;
 }
 );
 unicode = 0171;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = umacron;
-lastChange = "2013-12-30 23:32:19 +0000";
+lastChange = "2018-12-12 22:30:25 +0000";
 layers = (
 {
 components = (
@@ -24975,13 +23962,11 @@ width = 1022;
 }
 );
 unicode = 016B;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = uogonek;
-lastChange = "2013-12-30 23:32:16 +0000";
+lastChange = "2018-12-12 22:30:25 +0000";
 layers = (
 {
 components = (
@@ -25011,13 +23996,11 @@ width = 1022;
 }
 );
 unicode = 0173;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = uring;
-lastChange = "2013-12-30 23:32:13 +0000";
+lastChange = "2018-12-12 22:30:25 +0000";
 layers = (
 {
 components = (
@@ -25047,9 +24030,6 @@ width = 1022;
 }
 );
 unicode = 016F;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
 glyphname = utilde;
@@ -25283,8 +24263,9 @@ width = 944;
 unicode = 1EF3;
 },
 {
+color = 0;
 glyphname = zacute;
-lastChange = "2013-12-30 23:32:13 +0000";
+lastChange = "2018-12-12 22:30:26 +0000";
 layers = (
 {
 components = (
@@ -25314,13 +24295,11 @@ width = 790;
 }
 );
 unicode = 017A;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = zdotaccent;
-lastChange = "2013-12-30 23:32:13 +0000";
+lastChange = "2018-12-12 22:30:26 +0000";
 layers = (
 {
 components = (
@@ -25350,13 +24329,11 @@ width = 790;
 }
 );
 unicode = 017C;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = fi;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:26 +0000";
 layers = (
 {
 components = (
@@ -25389,12 +24366,12 @@ unicode = FB01;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = fl;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:26 +0000";
 layers = (
 {
 components = (
@@ -25427,7 +24404,6 @@ unicode = FB02;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
@@ -25645,8 +24621,9 @@ width = 1003;
 unicode = 03BC;
 },
 {
+color = 0;
 glyphname = onesuperior;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:26 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -25707,12 +24684,12 @@ unicode = 00B9;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = twosuperior;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:26 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -25797,12 +24774,12 @@ unicode = 00B2;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = threesuperior;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:26 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -25921,7 +24898,6 @@ unicode = 00B3;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
@@ -26087,8 +25063,9 @@ width = 1386;
 unicode = 2205;
 },
 {
+color = 0;
 glyphname = uni2219;
-lastChange = "2013-12-31 00:25:25 +0000";
+lastChange = "2018-12-12 22:30:26 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -26122,9 +25099,6 @@ width = 600;
 }
 );
 unicode = 2219;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
 glyphname = commaaccent;
@@ -26262,8 +25236,9 @@ width = 600;
 unicode = 02BC;
 },
 {
+color = 0;
 glyphname = uni02C9;
-lastChange = "2013-12-31 00:25:32 +0000";
+lastChange = "2018-12-12 22:30:26 +0000";
 layers = (
 {
 components = (
@@ -26292,9 +25267,6 @@ width = 600;
 }
 );
 unicode = 02C9;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
 glyphname = foundryicon;
@@ -26375,36 +25347,9 @@ width = 1282.53;
 );
 },
 {
-glyphname = uni00AD;
-lastChange = "2013-12-30 23:23:56 +0000";
-layers = (
-{
-components = (
-{
-name = hyphen;
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 600;
-},
-{
-components = (
-{
-name = hyphen;
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 600;
-}
-);
-unicode = 00AD;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
-},
-{
+color = 0;
 glyphname = guillemotleft;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:26 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -26471,12 +25416,12 @@ unicode = 00AB;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = guillemotright;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:26 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -26543,12 +25488,12 @@ unicode = 00BB;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = Euro;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:26 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -26669,12 +25614,12 @@ unicode = 20AC;
 userData = {
 com.typemytype.robofont.layerData = {
 };
-public.markColor = "0.85,0.26,0.06,1";
 };
 },
 {
+color = 0;
 glyphname = uni2215;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:26 +0000";
 layers = (
 {
 components = (
@@ -26696,13 +25641,11 @@ width = 803;
 }
 );
 unicode = 2215;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = estimated;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:26 +0000";
 layers = (
 {
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -26806,13 +25749,11 @@ width = 1000;
 }
 );
 unicode = 212E;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
+color = 0;
 glyphname = uni2113;
-lastChange = "2013-12-30 23:23:56 +0000";
+lastChange = "2018-12-12 22:30:26 +0000";
 layers = (
 {
 components = (
@@ -26834,9 +25775,6 @@ width = 508;
 }
 );
 unicode = 2113;
-userData = {
-public.markColor = "0.85,0.26,0.06,1";
-};
 },
 {
 glyphname = AEmacron;
@@ -26905,978 +25843,6 @@ width = 993;
 unicode = 01E6;
 },
 {
-glyphname = uni01C4;
-lastChange = "2013-12-31 00:07:41 +0000";
-layers = (
-{
-components = (
-{
-name = D;
-},
-{
-name = Z;
-transform = "{1, 0, 0, 1, 1010, 0}";
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, 994, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1850;
-},
-{
-components = (
-{
-name = D;
-},
-{
-name = Z;
-transform = "{1, 0, 0, 1, 1010, 0}";
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, 1072, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1850;
-}
-);
-unicode = 01C4;
-},
-{
-glyphname = uni01C5;
-lastChange = "2013-12-31 00:07:41 +0000";
-layers = (
-{
-components = (
-{
-name = D;
-},
-{
-name = z;
-transform = "{1, 0, 0, 1, 1010, 0}";
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, 952, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1800;
-},
-{
-components = (
-{
-name = D;
-},
-{
-name = z;
-transform = "{1, 0, 0, 1, 1010, 0}";
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, 1030, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1800;
-}
-);
-unicode = 01C5;
-},
-{
-glyphname = uni01CD;
-lastChange = "2013-12-30 23:24:07 +0000";
-layers = (
-{
-components = (
-{
-name = A;
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, 2, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 994;
-},
-{
-components = (
-{
-name = A;
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, 81, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 994;
-}
-);
-unicode = 01CD;
-},
-{
-glyphname = uni01CF;
-lastChange = "2013-12-30 23:24:07 +0000";
-layers = (
-{
-components = (
-{
-name = I;
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, -249, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 464;
-},
-{
-components = (
-{
-name = I;
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, -171, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 464;
-}
-);
-unicode = 01CF;
-},
-{
-glyphname = uni01D1;
-lastChange = "2018-12-04 21:38:29 +0000";
-layers = (
-{
-components = (
-{
-name = O;
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, 18, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1022;
-},
-{
-components = (
-{
-name = O;
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, 84, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1021;
-}
-);
-unicode = 01D1;
-},
-{
-glyphname = uni01D3;
-lastChange = "2013-12-30 23:24:08 +0000";
-layers = (
-{
-components = (
-{
-name = U;
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, -3, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 970;
-},
-{
-components = (
-{
-name = U;
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, 75, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 970;
-}
-);
-unicode = 01D3;
-},
-{
-glyphname = uni01E8;
-lastChange = "2013-12-30 23:24:08 +0000";
-layers = (
-{
-components = (
-{
-name = K;
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, 17, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 967;
-},
-{
-components = (
-{
-name = K;
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, 95, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 967;
-}
-);
-unicode = 01E8;
-},
-{
-glyphname = uni01EA;
-lastChange = "2018-12-04 21:38:29 +0000";
-layers = (
-{
-components = (
-{
-name = O;
-},
-{
-name = ogonek;
-transform = "{1, 0, 0, 1, -161, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1022;
-},
-{
-components = (
-{
-name = O;
-},
-{
-name = ogonek;
-transform = "{1, 0, 0, 1, -495, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1021;
-}
-);
-unicode = 01EA;
-},
-{
-glyphname = uni01F1;
-lastChange = "2013-12-31 00:07:46 +0000";
-layers = (
-{
-components = (
-{
-name = D;
-},
-{
-name = Z;
-transform = "{1, 0, 0, 1, 1010, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1850;
-},
-{
-components = (
-{
-name = D;
-},
-{
-name = Z;
-transform = "{1, 0, 0, 1, 1010, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1850;
-}
-);
-unicode = 01F1;
-},
-{
-glyphname = uni01F2;
-lastChange = "2013-12-31 00:07:46 +0000";
-layers = (
-{
-components = (
-{
-name = D;
-},
-{
-name = z;
-transform = "{1, 0, 0, 1, 1010, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1800;
-},
-{
-components = (
-{
-name = D;
-},
-{
-name = z;
-transform = "{1, 0, 0, 1, 1010, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1800;
-}
-);
-unicode = 01F2;
-},
-{
-glyphname = uni01F4;
-lastChange = "2013-12-30 23:24:09 +0000";
-layers = (
-{
-components = (
-{
-name = G;
-},
-{
-name = acute;
-transform = "{1, 0, 0, 1, 163, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 993;
-},
-{
-components = (
-{
-name = G;
-},
-{
-name = acute;
-transform = "{1, 0, 0, 1, 238, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 993;
-}
-);
-unicode = 01F4;
-},
-{
-glyphname = uni01F8;
-lastChange = "2018-12-04 21:38:29 +0000";
-layers = (
-{
-components = (
-{
-name = N;
-},
-{
-name = grave;
-transform = "{1, 0, 0, 1, 192, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1052;
-},
-{
-components = (
-{
-name = N;
-},
-{
-name = grave;
-transform = "{1, 0, 0, 1, 262, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1051;
-}
-);
-unicode = 01F8;
-},
-{
-glyphname = uni01c7;
-lastChange = "2013-12-31 00:08:05 +0000";
-layers = (
-{
-components = (
-{
-name = L;
-},
-{
-name = J;
-transform = "{1, 0, 0, 1, 814, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1769;
-},
-{
-components = (
-{
-name = L;
-},
-{
-name = J;
-transform = "{1, 0, 0, 1, 814, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1769;
-}
-);
-unicode = 01C7;
-},
-{
-glyphname = uni01c8;
-lastChange = "2013-12-31 00:08:05 +0000";
-layers = (
-{
-components = (
-{
-name = L;
-},
-{
-name = j;
-transform = "{1, 0, 0, 1, 814, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1352;
-},
-{
-components = (
-{
-name = L;
-},
-{
-name = j;
-transform = "{1, 0, 0, 1, 814, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1352;
-}
-);
-unicode = 01C8;
-},
-{
-glyphname = uni01ca;
-lastChange = "2018-12-04 21:38:29 +0000";
-layers = (
-{
-components = (
-{
-name = N;
-},
-{
-name = J;
-transform = "{1, 0, 0, 1, 1052, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 2007;
-},
-{
-components = (
-{
-name = N;
-},
-{
-name = J;
-transform = "{1, 0, 0, 1, 1051, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 2006;
-}
-);
-unicode = 01CA;
-},
-{
-glyphname = uni01cb;
-lastChange = "2018-12-04 21:38:29 +0000";
-layers = (
-{
-components = (
-{
-name = N;
-},
-{
-name = j;
-transform = "{1, 0, 0, 1, 1052, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1590;
-},
-{
-components = (
-{
-name = N;
-},
-{
-name = j;
-transform = "{1, 0, 0, 1, 1051, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1589;
-}
-);
-unicode = 01CB;
-},
-{
-glyphname = uni021E;
-lastChange = "2013-12-30 23:24:10 +0000";
-layers = (
-{
-components = (
-{
-name = H;
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, 22, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1022;
-},
-{
-components = (
-{
-name = H;
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, 100, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1022;
-}
-);
-unicode = 021E;
-},
-{
-glyphname = uni0226;
-lastChange = "2013-12-30 23:24:10 +0000";
-layers = (
-{
-components = (
-{
-name = A;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 231, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 994;
-},
-{
-components = (
-{
-name = A;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 373, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 994;
-}
-);
-unicode = 0226;
-},
-{
-glyphname = uni0228;
-lastChange = "2013-12-31 00:06:38 +0000";
-layers = (
-{
-components = (
-{
-name = E;
-},
-{
-name = cedilla;
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 843;
-},
-{
-components = (
-{
-name = E;
-},
-{
-name = cedilla;
-transform = "{1, 0, 0, 1, -358, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 843;
-}
-);
-unicode = 0228;
-},
-{
-glyphname = uni0232;
-lastChange = "2013-12-30 23:24:10 +0000";
-layers = (
-{
-components = (
-{
-name = Y;
-},
-{
-name = macron;
-transform = "{1, 0, 0, 1, -398, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 914;
-},
-{
-components = (
-{
-name = Y;
-},
-{
-name = macron;
-transform = "{1, 0, 0, 1, -353, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 914;
-}
-);
-unicode = 0232;
-},
-{
-glyphname = uni1E02;
-lastChange = "2013-12-30 23:24:10 +0000";
-layers = (
-{
-components = (
-{
-name = B;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 186, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 980;
-},
-{
-components = (
-{
-name = B;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 327, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 980;
-}
-);
-unicode = 1E02;
-},
-{
-glyphname = uni1E0A;
-lastChange = "2013-12-30 23:24:11 +0000";
-layers = (
-{
-components = (
-{
-name = D;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 239, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1010;
-},
-{
-components = (
-{
-name = D;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 380, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1010;
-}
-);
-unicode = 1E0A;
-},
-{
-glyphname = uni1E1E;
-lastChange = "2013-12-30 23:24:11 +0000";
-layers = (
-{
-components = (
-{
-name = F;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 187, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 817;
-},
-{
-components = (
-{
-name = F;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 328, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 817;
-}
-);
-unicode = 1E1E;
-},
-{
-glyphname = uni1E40;
-lastChange = "2013-12-30 23:24:12 +0000";
-layers = (
-{
-components = (
-{
-name = M;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 503, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1528;
-},
-{
-components = (
-{
-name = M;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 644, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1528;
-}
-);
-unicode = 1E40;
-},
-{
-glyphname = uni1E56;
-lastChange = "2013-12-30 23:24:12 +0000";
-layers = (
-{
-components = (
-{
-name = P;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 218, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 967;
-},
-{
-components = (
-{
-name = P;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 359, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 967;
-}
-);
-unicode = 1E56;
-},
-{
-glyphname = uni1E60;
-lastChange = "2013-12-30 23:24:12 +0000";
-layers = (
-{
-components = (
-{
-name = S;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 216, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 945;
-},
-{
-components = (
-{
-name = S;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 354, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 945;
-}
-);
-unicode = 1E60;
-},
-{
-glyphname = uni1E6A;
-lastChange = "2013-12-30 23:24:12 +0000";
-layers = (
-{
-components = (
-{
-name = T;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 155, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 811;
-},
-{
-components = (
-{
-name = T;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 296, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 811;
-}
-);
-unicode = 1E6A;
-},
-{
-glyphname = uni1EBC;
-lastChange = "2013-12-30 23:24:12 +0000";
-layers = (
-{
-components = (
-{
-name = E;
-},
-{
-name = tilde;
-transform = "{1, 0, 0, 1, -50, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 843;
-},
-{
-components = (
-{
-name = E;
-},
-{
-name = tilde;
-transform = "{1, 0, 0, 1, 25, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 843;
-}
-);
-unicode = 1EBC;
-},
-{
-glyphname = uni1EF8;
-lastChange = "2013-12-30 23:24:13 +0000";
-layers = (
-{
-components = (
-{
-name = Y;
-},
-{
-name = tilde;
-transform = "{1, 0, 0, 1, -38, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 914;
-},
-{
-components = (
-{
-name = Y;
-},
-{
-name = tilde;
-transform = "{1, 0, 0, 1, 37, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 914;
-}
-);
-unicode = 1EF8;
-},
-{
 glyphname = aemacron;
 lastChange = "2013-12-30 23:24:13 +0000";
 layers = (
@@ -27943,872 +25909,6 @@ width = 1032;
 unicode = 01E7;
 },
 {
-glyphname = uni01C6;
-lastChange = "2013-12-31 00:07:56 +0000";
-layers = (
-{
-components = (
-{
-name = d;
-},
-{
-name = z;
-transform = "{1, 0, 0, 1, 1020, 0}";
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, 962, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1810;
-},
-{
-components = (
-{
-name = d;
-},
-{
-name = z;
-transform = "{1, 0, 0, 1, 1020, 0}";
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, 1040, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1810;
-}
-);
-unicode = 01C6;
-},
-{
-glyphname = uni01C9;
-lastChange = "2013-12-30 23:50:21 +0000";
-layers = (
-{
-components = (
-{
-name = l;
-},
-{
-name = j;
-transform = "{1, 0, 0, 1, 508, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1046;
-},
-{
-components = (
-{
-name = l;
-},
-{
-name = j;
-transform = "{1, 0, 0, 1, 508, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1046;
-}
-);
-unicode = 01C9;
-},
-{
-glyphname = uni01CC;
-lastChange = "2013-12-31 00:07:59 +0000";
-layers = (
-{
-components = (
-{
-name = n;
-},
-{
-name = j;
-transform = "{1, 0, 0, 1, 1021, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1559;
-},
-{
-components = (
-{
-name = n;
-},
-{
-name = j;
-transform = "{1, 0, 0, 1, 1021, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1559;
-}
-);
-unicode = 01CC;
-},
-{
-glyphname = uni01CE;
-lastChange = "2013-12-30 23:24:14 +0000";
-layers = (
-{
-components = (
-{
-name = a;
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, 9, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 990;
-},
-{
-components = (
-{
-name = a;
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, 84, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 990;
-}
-);
-unicode = 01CE;
-},
-{
-glyphname = uni01D0;
-lastChange = "2013-12-30 23:24:14 +0000";
-layers = (
-{
-components = (
-{
-name = dotlessi;
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, -247, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 482;
-},
-{
-components = (
-{
-name = dotlessi;
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, -169, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 482;
-}
-);
-unicode = 01D0;
-},
-{
-glyphname = uni01D2;
-lastChange = "2013-12-30 23:24:14 +0000";
-layers = (
-{
-components = (
-{
-name = o;
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, 15, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1017;
-},
-{
-components = (
-{
-name = o;
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, 90, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1017;
-}
-);
-unicode = 01D2;
-},
-{
-glyphname = uni01D4;
-lastChange = "2013-12-30 23:24:14 +0000";
-layers = (
-{
-components = (
-{
-name = u;
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, 18, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1022;
-},
-{
-components = (
-{
-name = u;
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, 96, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1022;
-}
-);
-unicode = 01D4;
-},
-{
-glyphname = uni01E9;
-lastChange = "2013-12-30 23:50:31 +0000";
-layers = (
-{
-components = (
-{
-name = k;
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, 269, 108}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1005;
-},
-{
-components = (
-{
-name = k;
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, 307, 108}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1005;
-}
-);
-unicode = 01E9;
-},
-{
-glyphname = uni01EB;
-lastChange = "2013-12-31 00:07:05 +0000";
-layers = (
-{
-components = (
-{
-name = o;
-},
-{
-name = ogonek;
-transform = "{1, 0, 0, 1, -137, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1017;
-},
-{
-components = (
-{
-name = o;
-},
-{
-name = ogonek;
-transform = "{1, 0, 0, 1, -413, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1017;
-}
-);
-unicode = 01EB;
-},
-{
-glyphname = uni01F0;
-lastChange = "2013-12-30 23:24:15 +0000";
-layers = (
-{
-components = (
-{
-name = dotlessj;
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, -197, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 538;
-},
-{
-components = (
-{
-name = dotlessj;
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, -114, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 538;
-}
-);
-unicode = 01F0;
-},
-{
-glyphname = uni01F3;
-lastChange = "2013-12-31 00:07:55 +0000";
-layers = (
-{
-components = (
-{
-name = d;
-},
-{
-name = z;
-transform = "{1, 0, 0, 1, 1020, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1810;
-},
-{
-components = (
-{
-name = d;
-},
-{
-name = z;
-transform = "{1, 0, 0, 1, 1020, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1810;
-}
-);
-unicode = 01F3;
-},
-{
-glyphname = uni01F5;
-lastChange = "2013-12-30 23:24:15 +0000";
-layers = (
-{
-components = (
-{
-name = g;
-},
-{
-name = acute;
-transform = "{1, 0, 0, 1, 177, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1032;
-},
-{
-components = (
-{
-name = g;
-},
-{
-name = acute;
-transform = "{1, 0, 0, 1, 252, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1032;
-}
-);
-unicode = 01F5;
-},
-{
-glyphname = uni01F9;
-lastChange = "2013-12-30 23:24:15 +0000";
-layers = (
-{
-components = (
-{
-name = n;
-},
-{
-name = grave;
-transform = "{1, 0, 0, 1, 158, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1021;
-},
-{
-components = (
-{
-name = n;
-},
-{
-name = grave;
-transform = "{1, 0, 0, 1, 233, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1021;
-}
-);
-unicode = 01F9;
-},
-{
-glyphname = uni021F;
-lastChange = "2013-12-30 23:24:15 +0000";
-layers = (
-{
-components = (
-{
-name = h;
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, 269, 135}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1035;
-},
-{
-components = (
-{
-name = h;
-},
-{
-name = caron;
-transform = "{1, 0, 0, 1, 317, 126}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1035;
-}
-);
-unicode = 021F;
-},
-{
-glyphname = uni0227;
-lastChange = "2013-12-30 23:24:16 +0000";
-layers = (
-{
-components = (
-{
-name = a;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 238, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 990;
-},
-{
-components = (
-{
-name = a;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 376, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 990;
-}
-);
-unicode = 0227;
-},
-{
-glyphname = uni0229;
-lastChange = "2013-12-30 23:24:16 +0000";
-layers = (
-{
-components = (
-{
-name = e;
-},
-{
-name = cedilla;
-transform = "{1, 0, 0, 1, 6, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1000;
-},
-{
-components = (
-{
-name = e;
-},
-{
-name = cedilla;
-transform = "{1, 0, 0, 1, -230, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1000;
-}
-);
-unicode = 0229;
-},
-{
-glyphname = uni0233;
-lastChange = "2013-12-30 23:24:16 +0000";
-layers = (
-{
-components = (
-{
-name = y;
-},
-{
-name = macron;
-transform = "{1, 0, 0, 1, -383, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 944;
-},
-{
-components = (
-{
-name = y;
-},
-{
-name = macron;
-transform = "{1, 0, 0, 1, -338, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 944;
-}
-);
-unicode = 0233;
-},
-{
-glyphname = uni1E03;
-lastChange = "2013-12-30 23:24:16 +0000";
-layers = (
-{
-components = (
-{
-name = b;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 414, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1027;
-},
-{
-components = (
-{
-name = b;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 554, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1027;
-}
-);
-unicode = 1E03;
-},
-{
-glyphname = uni1E0B;
-lastChange = "2013-12-30 23:24:16 +0000";
-layers = (
-{
-components = (
-{
-name = d;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 101, 118}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1020;
-},
-{
-components = (
-{
-name = d;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 212, 118}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1020;
-}
-);
-unicode = 1E0B;
-},
-{
-glyphname = uni1E1F;
-lastChange = "2013-12-30 23:24:16 +0000";
-layers = (
-{
-components = (
-{
-name = f;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 56, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 574;
-},
-{
-components = (
-{
-name = f;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 194, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 574;
-}
-);
-unicode = 1E1F;
-},
-{
-glyphname = uni1E41;
-lastChange = "2013-12-30 23:36:13 +0000";
-layers = (
-{
-components = (
-{
-name = m;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 658, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1553;
-},
-{
-components = (
-{
-name = m;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 796, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1553;
-}
-);
-unicode = 1E41;
-},
-{
-glyphname = uni1E57;
-lastChange = "2013-12-30 23:24:17 +0000";
-layers = (
-{
-components = (
-{
-name = p;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 248, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1023;
-},
-{
-components = (
-{
-name = p;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 386, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1023;
-}
-);
-unicode = 1E57;
-},
-{
-glyphname = uni1E61;
-lastChange = "2013-12-30 23:24:17 +0000";
-layers = (
-{
-components = (
-{
-name = s;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 224, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 972;
-},
-{
-components = (
-{
-name = s;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 362, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 972;
-}
-);
-unicode = 1E61;
-},
-{
-glyphname = uni1E6B;
-lastChange = "2013-12-30 23:24:17 +0000";
-layers = (
-{
-components = (
-{
-name = t;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 50, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 625;
-},
-{
-components = (
-{
-name = t;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 191, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 625;
-}
-);
-unicode = 1E6B;
-},
-{
-glyphname = uni1EBD;
-lastChange = "2013-12-30 23:24:17 +0000";
-layers = (
-{
-components = (
-{
-name = e;
-},
-{
-name = tilde;
-transform = "{1, 0, 0, 1, 15, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1000;
-},
-{
-components = (
-{
-name = e;
-},
-{
-name = tilde;
-transform = "{1, 0, 0, 1, 87, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1000;
-}
-);
-unicode = 1EBD;
-},
-{
-glyphname = uni1EF9;
-lastChange = "2013-12-30 23:24:18 +0000";
-layers = (
-{
-components = (
-{
-name = y;
-},
-{
-name = tilde;
-transform = "{1, 0, 0, 1, -23, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 944;
-},
-{
-components = (
-{
-name = y;
-},
-{
-name = tilde;
-transform = "{1, 0, 0, 1, 52, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 944;
-}
-);
-unicode = 1EF9;
-},
-{
 glyphname = Sigma;
 lastChange = "2013-12-30 23:42:09 +0000";
 layers = (
@@ -28862,72 +25962,6 @@ width = 820.002;
 }
 );
 unicode = 03A3;
-},
-{
-glyphname = uni022E;
-lastChange = "2018-12-04 21:38:29 +0000";
-layers = (
-{
-components = (
-{
-name = O;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 247, 260}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1022;
-},
-{
-components = (
-{
-name = O;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 376, 260}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1021;
-}
-);
-unicode = 022E;
-},
-{
-glyphname = uni022F;
-lastChange = "2013-12-30 23:24:18 +0000";
-layers = (
-{
-components = (
-{
-name = o;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 244, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1017;
-},
-{
-components = (
-{
-name = o;
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 382, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 1017;
-}
-);
-unicode = 022F;
 },
 {
 glyphname = foursuperior;
@@ -29001,6 +26035,32 @@ com.typemytype.robofont.layerData = {
 };
 },
 {
+glyphname = middot;
+lastChange = "2013-12-30 23:52:59 +0000";
+layers = (
+{
+components = (
+{
+name = periodcentered;
+transform = "{1, 0, 0, 1, 62, 0}";
+}
+);
+layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
+width = 600;
+},
+{
+components = (
+{
+name = periodcentered;
+transform = "{1, 0, 0, 1, -17, 0}";
+}
+);
+layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
+width = 600;
+}
+);
+},
+{
 glyphname = uni000D;
 lastChange = "2013-12-30 23:24:18 +0000";
 layers = (
@@ -29016,14 +26076,40 @@ width = 600;
 unicode = 000D;
 },
 {
-glyphname = caron.alt;
-lastChange = "2013-12-30 23:31:19 +0000";
+glyphname = dotaccentcmb;
+lastChange = "2013-12-30 23:52:41 +0000";
+layers = (
+{
+components = (
+{
+name = dotaccent;
+transform = "{1, 0, 0, 1, 53, 0}";
+}
+);
+layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
+width = 600;
+},
+{
+components = (
+{
+name = dotaccent;
+transform = "{1, 0, 0, 1, 189, 0}";
+}
+);
+layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
+width = 600;
+}
+);
+},
+{
+glyphname = dblgravecmb;
+lastChange = "2013-12-30 23:25:12 +0000";
 layers = (
 {
 anchors = (
 {
-name = _caron.alt;
-position = "{276, 1500}";
+name = _top;
+position = "{494, 1500}";
 }
 );
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -29031,23 +26117,29 @@ paths = (
 {
 closed = 1;
 nodes = (
-"659 1242 LINE",
-"870 1242 LINE",
-"972 1487 LINE",
-"972 1776 LINE",
-"598 1776 LINE",
-"598 1478 LINE",
-"725 1478 LINE"
+"277 1586 LINE",
+"443 1644 LINE",
+"222 2123 LINE",
+"-12 2015 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"579 1586 LINE",
+"745 1644 LINE",
+"561 2123 LINE",
+"331 2015 LINE"
 );
 }
 );
-width = 600;
+width = 825;
 },
 {
 anchors = (
 {
-name = _caron.alt;
-position = "{326, 1500}";
+name = _top;
+position = "{516, 1500}";
 }
 );
 layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
@@ -29055,19 +26147,30 @@ paths = (
 {
 closed = 1;
 nodes = (
-"629 1232 LINE",
-"840 1232 LINE",
-"982 1477 LINE",
-"1027 1766 LINE",
-"653 1766 LINE",
-"606 1468 LINE",
-"733 1468 LINE"
+"312 1586 LINE",
+"487 1644 LINE",
+"342 2123 LINE",
+"91 2015 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"614 1586 LINE",
+"789 1644 LINE",
+"681 2123 LINE",
+"434 2015 LINE"
 );
 }
 );
-width = 600;
+width = 825;
 }
 );
+unicode = 030F;
+userData = {
+com.typemytype.robofont.layerData = {
+};
+};
 },
 {
 glyphname = breveinvertedcomb;
@@ -29206,14 +26309,14 @@ width = 600;
 unicode = 0312;
 },
 {
-glyphname = dblgravecmb;
-lastChange = "2013-12-30 23:25:12 +0000";
+glyphname = caron.alt;
+lastChange = "2013-12-30 23:31:19 +0000";
 layers = (
 {
 anchors = (
 {
-name = _top;
-position = "{494, 1500}";
+name = _caron.alt;
+position = "{276, 1500}";
 }
 );
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
@@ -29221,29 +26324,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"277 1586 LINE",
-"443 1644 LINE",
-"222 2123 LINE",
-"-12 2015 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"579 1586 LINE",
-"745 1644 LINE",
-"561 2123 LINE",
-"331 2015 LINE"
+"659 1242 LINE",
+"870 1242 LINE",
+"972 1487 LINE",
+"972 1776 LINE",
+"598 1776 LINE",
+"598 1478 LINE",
+"725 1478 LINE"
 );
 }
 );
-width = 825;
+width = 600;
 },
 {
 anchors = (
 {
-name = _top;
-position = "{516, 1500}";
+name = _caron.alt;
+position = "{326, 1500}";
 }
 );
 layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
@@ -29251,134 +26348,16 @@ paths = (
 {
 closed = 1;
 nodes = (
-"312 1586 LINE",
-"487 1644 LINE",
-"342 2123 LINE",
-"91 2015 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"614 1586 LINE",
-"789 1644 LINE",
-"681 2123 LINE",
-"434 2015 LINE"
+"629 1232 LINE",
+"840 1232 LINE",
+"982 1477 LINE",
+"1027 1766 LINE",
+"653 1766 LINE",
+"606 1468 LINE",
+"733 1468 LINE"
 );
 }
 );
-width = 825;
-}
-);
-unicode = 030F;
-userData = {
-com.typemytype.robofont.layerData = {
-};
-};
-},
-{
-glyphname = uni0307;
-lastChange = "2013-12-30 23:53:24 +0000";
-layers = (
-{
-components = (
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 51, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 600;
-},
-{
-components = (
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 195, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 600;
-}
-);
-unicode = 0307;
-},
-{
-glyphname = NULL;
-lastChange = "2013-12-30 23:24:19 +0000";
-layers = (
-{
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 600;
-},
-{
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 600;
-}
-);
-},
-{
-glyphname = dotaccentcmb;
-lastChange = "2013-12-30 23:52:41 +0000";
-layers = (
-{
-components = (
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 53, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 600;
-},
-{
-components = (
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, 189, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 600;
-}
-);
-},
-{
-glyphname = middot;
-lastChange = "2013-12-30 23:52:59 +0000";
-layers = (
-{
-components = (
-{
-name = periodcentered;
-transform = "{1, 0, 0, 1, 62, 0}";
-}
-);
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 600;
-},
-{
-components = (
-{
-name = periodcentered;
-transform = "{1, 0, 0, 1, -17, 0}";
-}
-);
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
-width = 600;
-}
-);
-},
-{
-glyphname = slashbar;
-lastChange = "2013-12-30 23:24:21 +0000";
-layers = (
-{
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 600;
-},
-{
-layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
 width = 600;
 }
 );
@@ -29427,6 +26406,34 @@ width = 600;
 }
 );
 unicode = 000A;
+},
+{
+glyphname = NULL;
+lastChange = "2013-12-30 23:24:19 +0000";
+layers = (
+{
+layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
+width = 600;
+},
+{
+layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
+width = 600;
+}
+);
+},
+{
+glyphname = slashbar;
+lastChange = "2013-12-30 23:24:21 +0000";
+layers = (
+{
+layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
+width = 600;
+},
+{
+layerId = "E8DA9D10-2326-4043-BA0A-F99E452091F3";
+width = 600;
+}
+);
 }
 );
 instances = (
