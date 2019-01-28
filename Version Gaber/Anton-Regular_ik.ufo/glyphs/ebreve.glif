@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ebreve" format="1">
+  <advance width="996.0"/>
+  <unicode hex="0115"/>
+  <outline>
+    <component base="e"/>
+    <component base="breve" xOffset="78.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2013-12-30 23:23:56 +0000</string>
+    </dict>
+  </lib>
+</glyph>

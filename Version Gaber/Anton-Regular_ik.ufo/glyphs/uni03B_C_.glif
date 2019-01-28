@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03BC" format="1">
+  <advance width="1035.0"/>
+  <unicode hex="03BC"/>
+  <outline>
+    <contour>
+      <point x="45.0" y="541.0" type="line"/>
+      <point x="-70.0" y="-186.0" type="line"/>
+      <point x="289.0" y="-186.0" type="line"/>
+      <point x="404.0" y="541.0" type="line"/>
+    </contour>
+    <component base="u" xOffset="6.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2013-12-30 23:23:56 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="napostrophe" format="1">
+  <advance width="1029.0"/>
+  <unicode hex="0149"/>
+  <outline>
+    <component base="uni02BC" xOffset="-197.0" yOffset="627.0"/>
+    <component base="n"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2013-12-30 23:23:56 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questiondown" format="1">
+  <advance width="1021.0"/>
+  <unicode hex="00BF"/>
+  <outline>
+    <component base="question" xScale="-1.0" yScale="-1.0" xOffset="1048.0" yOffset="1647.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-12 22:30:19 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

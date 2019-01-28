@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright" format="1">
+  <advance width="1229.0"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="69.0" y="618.0" type="line"/>
+      <point x="12.0" y="260.0" type="line"/>
+      <point x="567.0" y="545.0" type="line"/>
+      <point x="633.0" y="959.0" type="line"/>
+      <point x="165.0" y="1230.0" type="line"/>
+      <point x="108.0" y="871.0" type="line"/>
+      <point x="401.0" y="749.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="646.0" y="618.0" type="line"/>
+      <point x="589.0" y="260.0" type="line"/>
+      <point x="1144.0" y="545.0" type="line"/>
+      <point x="1210.0" y="959.0" type="line"/>
+      <point x="742.0" y="1230.0" type="line"/>
+      <point x="685.0" y="871.0" type="line"/>
+      <point x="978.0" y="749.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-12 22:30:26 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>
